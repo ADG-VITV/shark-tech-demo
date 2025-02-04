@@ -13,7 +13,7 @@ export default function Navbar() {
       <Link href="">FAQ</Link>
       <Link href="">SUPPORT</Link>
       </div>
-      <div className="flex gap-4">
+      <div className="flex gap-4 mr-4">
         <Link href="">Login</Link>
         <button className="bg-white text-black p-1 px-3  rounded-2xl font-semibold">Signup</button>
       </div>
