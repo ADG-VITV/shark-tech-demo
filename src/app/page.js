@@ -10,7 +10,9 @@ export default function Home() {
    <>
    <Navbar/>
    <New/>
+   <div className="">
    <Hero/>
+   </div>
    <About/>
    <Footer/>
    </>

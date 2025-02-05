@@ -3,11 +3,12 @@ import React from 'react';
 export default function Hero() {
   return (
     <>
-      <div className="ml-6 mt-4 h-screen bg-gradient-to-t from-[#9BC3FF] via-[#2D81FF] to-[#000000] p-8">
+    <div className=""></div>
+      <div className=" px-8 mt-4 h-[80vh]  "  style={{background: 'linear-gradient(to top, #2D81FF 26%, #0066FF 48%, rgba(0, 0, 0, 0) 76%)',}} >
         <div className="text-white text-7xl font-bold">
           Lorem ipsum
         </div>
-        <div className="text-white text-7xl font-bold">Lorem ipsum dolor</div>
+        <div className="text-white text-7xl font-bold ">Lorem ipsum dolor</div>
         <div className="text-white mt-4">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam ad, minima non aut ullam asperiores earum ab! Amet repellat, voluptas reprehenderit ratione neque dolores velit assumenda porro saepe repellendus quam aliquid maiores qui suscipit! Explicabo, optio.
         </div>

@@ -8,6 +8,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        customGradient:'linear-gradient(tobottom, #9BC3FF 0%, #2D81FF 26%, #0066FF 48%, rgba(0, 0, 0, 0) 76%)',
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
@@ -15,3 +16,4 @@ export default {
   },
   plugins: [],
 };
+
