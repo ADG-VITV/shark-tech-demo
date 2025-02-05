@@ -3,7 +3,7 @@ import React from 'react'
 export default function Hero() {
   return (
     <>
-    <div className="ml-6 mt-4 h-screen bg-gradient-to-t from-[#9BC3FF] via-[#2D81FF]  to-[#000000] p-8">
+    <div className="ml-6 mt-4 h-screen bg-gradient-to-t from-[#9BC3FF] via-[#2D81FF] via-[#1A4FCC] to-[#000000] p-8">
     <div className="text-white text-7xl font-bold ">
       Lorem ipsum
     </div>
