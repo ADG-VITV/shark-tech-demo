@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import New from "./components/New";
 import Hero from "./components/Hero";
 import About from "./components/About"
+import Footer from "./components/Footer";
 export default function Home() {
   return (
    <>
@@ -11,6 +12,7 @@ export default function Home() {
    <New/>
    <Hero/>
    <About/>
+   <Footer/>
    </>
   );
 }
